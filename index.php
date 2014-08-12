@@ -1,5 +1,10 @@
 <?php
 
+/* Google Image Search API In PHP
+
+init by Jenson M John (http://jenson.in) */
+
+
 class imageSearch{
 
 
