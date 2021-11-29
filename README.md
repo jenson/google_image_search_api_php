@@ -8,6 +8,6 @@ This is an implementation of Google Image Search API using PHP. The demonstartio
 
 Online Demo : http://jenson.in/demos/googleImageSearch.php
 
-*** This is not an official Image Search API from Google. ***
+** This is not an official Image Search API from Google. **
 
 Jenson (http://jenson.in/iblog/about-2/)
